@@ -1,0 +1,7 @@
+ Hi, I'm Arman, a newcomer to the world of programming with passion for technology.
+    I am particularly drawn to areas like Web3, Blockchain, Smart Contracts, and FinTech because of their potential to revolutionize industries
+     and create decentralized solutions for real-world problems.
+
+I’m currently building my skills by working on small projects and exploring new technologies.
+ My goal is to grow into a professional who contributes to creating secure, efficient, and innovative systems in these fields.
+  Below, you’ll find some of my small projects I’ve worked on so far.

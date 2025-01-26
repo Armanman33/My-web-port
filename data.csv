@@ -1,0 +1,10 @@
+title;description;url;image
+Todo App;A simple app created using GUI library. with this you can add,edit & complete your todo list. includes a basic black/white UI. libraries: os-time-GUI;https://pythonhow.com;1.png
+Blockchain;This is my first step into blockchain projects, which created through Maximilian course.;https://pythonhow.com;2.png
+Todo app;This is another todo app which i worked on through a course by using multiple files and directories to access and store datas.;https://pythonhow.com;3.png
+File compressor;A simple file compressor program created by using GUI library.;https://pythonhow.com;4.png
+Web cam;A simple camera project which you can chose to turn on the camera, take screen shots and talk.;https://pythonhow.com;5.png
+C/W game;A simple information game. libraries: json;https://pythonhow.com;6.png
+Web todo app;This is the same version of todo app, but based on web functions. libraries: streamlit,inside function;https://pythonhow.com;7.png
+Current web;i created ui by streamlit, secured my gmail password by os and smtplib, ssl and local window variables, used panda to read .csv files. libraries: panda-os-smtplib, ssl-streamlit;https://pythonhow.com;8.png
+
